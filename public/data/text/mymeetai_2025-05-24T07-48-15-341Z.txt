@@ -1,0 +1,413 @@
+Introducing AI Chat
+
+AI Assistant for
+
+sales meetings
+
+r
+
+e
+
+s
+
+e
+
+a
+
+r
+
+c
+
+h
+
+An AI that joins your call, records the meeting, summarizes key points, provides an accurate transcript, and captures action items.
+
+Get started
+
+Book a demo
+
+No credit card needed. All data is protected.
+
+How it works?
+
+Add a meeting
+
+Upload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automatically
+
+Get insights
+
+The processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlines
+
+Transcript
+
+Tasks
+
+AI Report
+
+Edit and share
+
+Rename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired format
+
+DOCX
+
+MD
+
+JSON
+
+PDF
+
+AI Chat
+
+Keep the conversation going after the meeting ends
+
+AI will analyze the transcript, find answers, and uncover insights
+
+Learn more
+
+Chat with AI
+
+Ask anything about your meetings — AI will analyze the transcript, find answers, and uncover insights
+
+AI suggests
+
+Complex answers
+
+AI Templates
+
+Professional AI analytics using ready-made templates
+
+AI Templates help uncover insights from interviews, evaluate manager performance, and synchronize team workflows
+
+Learn more
+
+"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"
+
+Pavel Osokin
+
+Founder minders.vc
+
+Register
+
+Demo
+
+Transcript
+
+Audio & Video Transcription in 100+ languages. Powered by AI
+
+Get a detailed transcript in minutes: with punctuation, term recognition, speaker separation, and filler words removal
+
+Get started for free
+
+Emmanuel
+
+1:54
+
+Michael
+
+1:54
+
+Giovanni
+
+1:54
+
+Definition and division into speakers
+
+You can specify the number of speakers when adding a meeting so that the result is more accurate
+
+你好！
+
+¡Hola!
+
+हाय!
+
+Hello!
+
+Привет!
+
+Bonjour!
+
+안녕!
+
+Hallo!
+
+こんにちは!
+
+Ciao!
+
+مرحبا!
+
+Olá!
+
+Chào!
+
+Merhaba!
+
+Hallå!
+
+Բարեւ ձեզ!
+
+Сәлем!
+
+سلام!
+
+Привіт!
+
+Tere!
+
+Здравей!
+
+Sziasztok!
+
+Γεια!
+
+Cześć!
+
+Ahoj!
+
+More than 70 languages
+
+We support processing in 73 languages, this does not affect the speed and quality of the result
+
+Hello!
+
+i mean
+
+uhhh
+
+but like
+
+well anyways
+
+but you know
+
+Remove filler words
+
+Instantly cut all your "ums", "uhs" and other filler words. You'll save hours
+
+Super sonic infrastructure
+
+We can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutes
+
+Studio sound
+
+Before processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"
+
+Alyona Fassalova 
+
+Product designer
+
+Register
+
+Demo
+
+HR interview
+
+Candidate
+
+Motivation to apply
+
+Education
+
+Skills
+
+Responses
+
+Insights
+
+Lecture notes
+
+Key points
+
+Topics
+
+Quotes
+
+One-to-one
+
+Super summary
+
+Highlights
+
+Next steps
+
+Article
+
+Storytelling
+
+SEO-optimization
+
+Sales coach
+
+Сall quality
+
+Satisfaction
+
+Objections analysis
+
+Recommendations for the manager
+
+Research
+
+Information about respondent
+
+Positive
+
+Negative 
+
+Next steps
+
+Q&A Summary
+
+Team sync
+
+Super summary
+
+Summary by speakers
+
+Sales meeting
+
+Client
+
+Meeting goal
+
+Problems and blockers
+
+Summary and next steps
+
+Default meeting
+
+Super summary
+
+Summary of the topics
+
+Action items
+
+Integrations
+
+Integration with Zoom, Google Meet and other working tools
+
+We connect via Zoom, Google Meet, Google Calendar, or Telegram bot for automatic meeting recording
+
+Get started for free
+
+You don't need to record meetings anymore
+
+Our bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interface
+
+Synced up with your calendar
+
+Connect Google Calendar so we can automatically sync with all your events
+
+Everything remains the same, except on Telegram
+
+Telegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+Solutions for teams
+
+Mymeet.ai is built to address the needs of professionals across various industries
+
+Sales
+
+We’ll identify managers' mistakes and summarize meeting outcomes. Perfect for sales teams with 5 to 100 employees.
+
+Learn more
+
+Management
+
+We’ll break the meeting into projects, define statuses and blockers, and create tasks for participants—just copy and share in your chats.
+
+Learn more
+
+Research
+
+We’ll create a transcript and perform an analysis. We’ll highlight positives and negatives and include respondent quotes.
+
+Learn more
+
+Recruitment
+
+We’ll transcribe the meeting, assess motivation, skills, and experience. We’ll analyze the responses and generate insights for your team.
+
+Learn more
+
+"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."
+
+Dzis-Voinarovskii Fedor 
+
+Lead Product Manager
+
+Register
+
+Demo
+
+Protection in every direction
+
+Protecting user data is our priority. We use the most advanced security measures available
+
+Encryption
+
+The transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithm
+
+Access & Permissions 
+
+All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyone
+
+Automatic & Secure Backups 
+
+Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+Try mymeet in action today. 
+
+It is Free.
+
+Get started for Free
+
+Book a demo
+
+180 minutes for free
+
+No credit card needed
+
+All data is protected
+
+Let's have a conversation
+
+hello@mymeet.ai
+
+Product
+
+Pricing
+
+Telegram bot
+
+API
+
+Resources
+
+Bonus program
+
+Updates
+
+Blog
+
+Company
+
+Privacy
+
+Terms of service
+
+©2025 mymeet.ai
+
+Solutions
+
+Recruitment
+
+Research
+
+Management
+
+Sales
+
+                                                                                                       
