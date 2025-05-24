@@ -4,7 +4,6 @@ import path from 'path'
 import archiver from 'archiver'
 
 export async function GET(request: NextRequest) {
-	console.log('test')
 	try {
 		const { searchParams } = new URL(request.url)
 		const sessionId = searchParams.get('sessionId')
