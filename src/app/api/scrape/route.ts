@@ -16,7 +16,6 @@ export async function GET() {
 			},
 		})
 	} catch (error) {
-		console.error('Scrape API Error:', error)
 		return NextResponse.json(
 			{
 				success: false,

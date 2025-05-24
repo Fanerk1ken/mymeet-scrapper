@@ -19,7 +19,7 @@ export async function GET(request: NextRequest) {
 			zlib: { level: 9 },
 		})
 
-		const dataDir = path.resolve('public/data')
+		const dataDir = '/tmp'
 		const imagesDir = path.join(dataDir, 'images')
 		const textDir = path.join(dataDir, 'text')
 

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c5b119-ad65-4527-845f-4b8d045a5e8a" name="Changes" comment="feat: add logs">
+    <list default="true" id="d2c5b119-ad65-4527-845f-4b8d045a5e8a" name="Changes" comment="feat: remove logs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/api/download/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/download/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/api/scrape/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/api/scrape/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/scrapper/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/scrapper/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748087733370</updated>
-      <workItem from="1748087737057" duration="708000" />
+      <workItem from="1748087737057" duration="1721000" />
     </task>
     <task id="LOCAL-00001" summary="feat: add logs">
       <option name="closed" value="true" />
@@ -77,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748088356320</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: remove logs">
+      <option name="closed" value="true" />
+      <created>1748088478668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748088478668</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: add logs" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: add logs" />
+    <MESSAGE value="feat: remove logs" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: remove logs" />
   </component>
 </project>

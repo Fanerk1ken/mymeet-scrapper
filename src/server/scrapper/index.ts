@@ -4,9 +4,9 @@ import fetch from 'node-fetch'
 import path from 'path'
 import puppeteer from 'puppeteer-core'
 
-const IMAGES_DIR = path.resolve('public/data/images')
-const TEXT_DIR = path.resolve('public/data/text')
-const DATA_DIR = path.resolve('public/data')
+const IMAGES_DIR = path.join('/tmp', 'images')
+const TEXT_DIR = path.join('/tmp', 'text')
+const DATA_DIR = '/tmp'
 
 const BROWSERLESS_TOKEN = process.env.BROWSERLESS_TOKEN
 const BROWSERLESS_ENDPOINT = `wss://production-sfo.browserless.io/?token=${BROWSERLESS_TOKEN}&stealth=true`
@@ -23,6 +23,10 @@ const downloadImage = async (url: string, filename: string) => {
 }
 
 export async function scrapeMyMeetAI() {
+	if (!BROWSERLESS_TOKEN) {
+		throw new Error('BROWSERLESS_TOKEN environment variable is required')
+	}
+
 	await fs.mkdir(IMAGES_DIR, { recursive: true })
 	await fs.mkdir(TEXT_DIR, { recursive: true })
 
